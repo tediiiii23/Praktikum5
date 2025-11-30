@@ -1,3 +1,11 @@
+|  |  |
+| -------- | --- |
+| **Nama** | Tedi Mulyadi |
+| **NIM** | 312510163 |
+| **Kelas** | TI.25.A2 |
+| **Mata Kuliah** | Pengantar Pemrograman |
+| **Dosen** | Agung Nugroho, S.Kom., M.Kom. |  
+
 ## LATIHAN 1
 
 Program ini menunjukkan cara menggunakan **dictionary** di Python untuk
